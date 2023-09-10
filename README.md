@@ -11,3 +11,6 @@
 3. OCR(Optical Character Recognition) 기술로 PDF에서 텍스트를 추출
 4. 츠츨한 텍스트를 transformer 모델을 통해 추론(번역)
 
+# Project Overview
+
+![image](https://github.com/onsemiro11/Transformer-based-NMT-model-for-translating-English-AI-paper-PDF-file/assets/49609175/724dc515-e076-4cd0-adc4-84c3fb5ac517)
