@@ -14,3 +14,9 @@
 # Project Overview
 
 ![image](https://github.com/onsemiro11/Transformer-based-NMT-model-for-translating-English-AI-paper-PDF-file/assets/49609175/724dc515-e076-4cd0-adc4-84c3fb5ac517)
+
+# 수집한 데이터
+
+- AI hub "기술과학 분야 한-영 번역 병렬 말뭉치 데이터"
+
+인공지능, 빅데이터, IT 분야의 데이터만 가져와서 20만개 말뭉치를 활용했다.
